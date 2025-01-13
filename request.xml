@@ -1,0 +1,7 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+    <soap:Body>
+        <Hello xmlns="http://example.com/">
+            <name>Distribuida</name>
+        </Hello>
+    </soap:Body>
+</soap:Envelope>
