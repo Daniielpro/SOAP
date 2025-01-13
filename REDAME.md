@@ -25,7 +25,7 @@ REST API/
 To clone this repository, use the following command:
 
  ```bash
- git clone https://github.com/your_user/your_repository.git
+ git clone https://github.com/Daniielpro/SOAP.git
 
  ```
 
